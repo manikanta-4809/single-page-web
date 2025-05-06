@@ -11,3 +11,8 @@ After commit switch the branch to the master and create new branch as fetaure/ad
 After completion second branch add origin of the github respoistory and again push to the origin master 
 git push -u origin feature/update-styling
 git push -u origin fetaure/add-content
+And after that clone the github repository and then i have compare the both the pull requets occur from the commit changes that done in git 
+For feature/update-styling ,fetaure/add-content  we should compare the pull request 
+After completion of pull request we need to merge the requests and after that the content in the file has changed 
+So that changed file we can access in both the git and github respository
+I used to change the conflicts in the github repository in the 
